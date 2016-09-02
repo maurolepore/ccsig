@@ -5,7 +5,7 @@ The Caribbean Coral Skeleton Identification Guide (CCSIG) is an identification g
 The CCSIG exists in three forms:
   - online: ccsig_html (created with R Markdown)
   - pdf: ccsig.pdf (created with Microsoft Word)
-  - photo gallery: ccsig_photogall (created with Adobe Photoshop Lightroom)
+  - [photo gallery: ccsig_photogall](https://maurolepore.github.io/ccsig/) (created with Adobe Photoshop Lightroom)
   
 For more information, please contact:
   - Melisa Chan: melisacbl@gmail.com
